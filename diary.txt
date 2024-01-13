@@ -26,3 +26,5 @@ git log
 
 ⑦リモートにプッシュ
 git push origin HEAD
+
+sugoi!!
